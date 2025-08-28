@@ -32,3 +32,7 @@ Returns the product of `a` and `b`.
 
 ### `divide(a, b)`
 Returns the quotient of `a` and `b`. Throws an error if `b` is zero.
+
+## Publishing to GitHub Packages
+
+See [PUBLISHING.md](PUBLISHING.md) for detailed instructions on how to publish this package to GitHub Packages.
