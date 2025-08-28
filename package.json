@@ -7,15 +7,15 @@
     "test": "node test.js"
   },
   "keywords": ["math", "utilities", "demo"],
-  "author": "Your Name",
+  "author": "Krishna Mohan",
   "license": "MIT",
   "type": "commonjs",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/your-github-username/my-test-module.git"
+    "url": "git+https://github.com/krishna9358/my-test-module.git"
   },
   "bugs": {
-    "url": "https://github.com/your-github-username/my-test-module/issues"
+    "url": "https://github.com/krishna9358/my-test-module/issues"
   },
-  "homepage": "https://github.com/your-github-username/my-test-module#readme"
+  "homepage": "https://github.com/krishna9358/my-test-module#readme"
 }

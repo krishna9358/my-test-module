@@ -5,13 +5,13 @@ A simple math utilities module for demonstration purposes.
 ## Installation
 
 ```bash
-npm install @your-github-username/my-test-module
+npm install @krishna9358/my-test-module
 ```
 
 ## Usage
 
 ```javascript
-const mathUtils = require('@your-github-username/my-test-module');
+const mathUtils = require('@krishna9358/my-test-module');
 
 console.log(mathUtils.add(2, 3)); // 5
 console.log(mathUtils.subtract(5, 2)); // 3

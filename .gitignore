@@ -3,4 +3,4 @@ npm-debug.log*
 .nyc_output/
 coverage/
 .nyc_output/
-.DS_Store
+.DS_Store.npmrc
