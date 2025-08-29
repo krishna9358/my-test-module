@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/krishna9358/my-test-module/issues"
   },
-  "homepage": "https://github.com/krishna9358/my-test-module#readme"
+  "homepage": "https://github.com/krishna9358/my-test-module#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
 }
